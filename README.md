@@ -11,14 +11,14 @@ Controls
 
 The following keys let you interact with the environment:
 
-* <space> shoot bubbles
-* <esc> quit "game"
-* <up> increment gravity
-* <down> increment gravity
-* <left> decrement impulse
-* <right> increment impulse
-* <PageUp> increment volume
-* <PageDown> decrement volume
+* [space] shoot bubbles
+* [esc] quit "game"
+* [up] increment gravity
+* [down] increment gravity
+* [left] decrement impulse
+* [right] increment impulse
+* [PageUp] increment volume
+* [PageDown] decrement volume
 
 
 Hints and some concepts
