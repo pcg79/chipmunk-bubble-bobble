@@ -1,7 +1,7 @@
 Chipmunk Bubble Bobble Demo
 ===========================
 
-It's simple demo done for RiojaParty 2011 (a LAN party in La Rioja, Spain). With this demo I wanted to show how easy is to use [Chipmunk](http://beoran.github.com/chipmunk/).
+It's a simple demo done for RiojaParty 2011 (a LAN party in La Rioja, Spain). With this demo I wanted to show how easy is to use [Chipmunk](http://beoran.github.com/chipmunk/).
 
 This demo is a bubble bobble stage as background where our green star can shoot bubbles that go up until dissapear.
 
@@ -40,6 +40,6 @@ Copyright
 
 Arts and music are from Taito with their copyright.
 
-Sprites are from this site http://www.spriters-resource.com/community/showthread.php?tid=6467&pid=148118 so follow his copyright.
+Sprites are from this site http://www.spriters-resource.com so follow his copyright.
 
 The rest has a MIT + CC BY-SA license
