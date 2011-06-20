@@ -1,7 +1,7 @@
 Chipmunk Bubble Bobble Demo
 ===========================
 
-It's a simple demo done for RiojaParty 2011 (a LAN party in La Rioja, Spain). With this demo I wanted to show how easy is to use [Chipmunk](http://beoran.github.com/chipmunk/).
+It's a simple demo done for RiojaParty 2011 (a LAN party in La Rioja, Spain). With this demo I wanted to show how easy is to use [Chipmunk](http://beoran.github.com/chipmunk/) and integrate with [Gosu](http://www.libgosu.org).
 
 This demo is a bubble bobble stage as background where our green star can shoot bubbles that go up until dissapear.
 
@@ -33,6 +33,14 @@ About gravity:
 * 0 value make them to float :)
 
 Impulse is the force used to shoot the bubbles. High values make greater distances, negative values have the contrary effect.
+
+
+Requirements
+------------
+It has been test with Ruby 1.8.7 and require the following gems:
+
+* gosu
+* chipmunk
 
 
 Copyright
